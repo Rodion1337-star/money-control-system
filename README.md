@@ -1,9 +1,5 @@
 # Money Control System (Finance Guard)
 
-**Desktop-приложение для личных финансов с акцентом на осознанные траты**
-
-# Money Control System (Finance Guard)
-
 **Desktop-приложение для осознанного управления личными финансами**
 
 ## Скриншоты
