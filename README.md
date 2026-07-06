@@ -1,29 +1,30 @@
-# Money Control System
+# Task Manager
 
-Desktop personal finance management application built with CustomTkinter.
+Современное приложение для управления задачами.
 
-![Main Interface](screenshots/Снимок%20экрана%202026-07-01%20135211.png)
+![Главное окно](screenshots/Снимок%20экрана%202026-07-06%20152421.png)
 
-## Features
+## Возможности
 
-- Multiple accounts management
-- Income and expense tracking
-- Spending limits and warnings
-- Risky categories highlighting
-- Data saved in JSON
-- Clean dark theme interface
+- Добавление, редактирование и удаление задач
+- Отметка выполненных задач
+- Категории и приоритеты
+- Сроки выполнения
+- Поиск и фильтры
+- Сохранение в JSON
 
-## Technologies
+## Скриншоты
+
+![Добавление задачи](screenshots/Снимок%20экрана%202026-07-06%20152431.png)
+![Редактирование](screenshots/Снимок%20экрана%202026-07-06%20152437.png)
+
+## Технологии
 
 - Python 3
 - CustomTkinter
-- JSON for data persistence
+- JSON
 
-## Screenshots
-
-![Main Window](screenshots/Снимок%20экрана%202026-07-01%20135211.png)
-
-## How to Run
+## Запуск
 
 ```bash
 pip install customtkinter
