@@ -1,42 +1,30 @@
-# Money Control System (Finance Guard)
+# Money Control System
 
-**Desktop-приложение для осознанного управления личными финансами**
+Desktop personal finance management application built with CustomTkinter.
 
-## Скриншоты
+![Main Interface](screenshots/Снимок%20экрана%202026-07-01%20135211.png)
 
-![Главный экран](screenshots/Снимок%20экрана%202026-07-01%20144841.png)
-![Добавление расхода](screenshots/Снимок%20экрана%202026-07-01%20144851.png)
-![Аналитика](screenshots/Снимок%20экрана%202026-07-01%20144905.png)
-![Лимиты](screenshots/Снимок%20экрана%202026-07-01%20144914.png)
-![Операции](screenshots/Снимок%20экрана%202026-07-01%20144921.png)
-![Другие](screenshots/Снимок%20экрана%202026-07-01%20144928.png)
+## Features
 
-## Основные возможности
-- Множество счетов и категорий
-- Лимиты и предупреждения
-- Учёт доходов/расходов
-- Тёмная тема
+- Multiple accounts management
+- Income and expense tracking
+- Spending limits and warnings
+- Risky categories highlighting
+- Data saved in JSON
+- Clean dark theme interface
 
-## Основные возможности
+## Technologies
 
-- Множество счетов (основной, подушка безопасности, цели)
-- Учёт доходов, расходов, переводов
-- Лимиты по категориям + предупреждения о превышении
-- Рисковые категории (казино, Steam, импульсивные покупки)
-- Аналитика и отчёты
-- Учёт нестандартного графика зарплаты
-- Тёмная тема и удобный интерфейс
+- Python 3
+- CustomTkinter
+- JSON for data persistence
 
-## Технологии
+## Screenshots
 
-- Python + CustomTkinter
-- Локальное хранение (JSON/SQLite)
+![Main Window](screenshots/Снимок%20экрана%202026-07-01%20135211.png)
 
-## Для заказчиков
+## How to Run
 
-Ищу задачи по разработке desktop-приложений, финансовых инструментов, автоматизации на Python.
-
-Готов к сотрудничеству!
-Ищу задачи по разработке desktop-приложений, финансовых инструментов, автоматизации на Python.
-
-Готов к сотрудничеству!
+```bash
+pip install customtkinter
+python main.py
